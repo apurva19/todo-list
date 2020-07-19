@@ -26,3 +26,13 @@ ul {
   text-align: center;
   list-style: inside;
 }
+.tab {
+	margin: 10px;
+	background-color: white;
+	opacity: 0.9;
+	border-radius: 5px;
+}
+
+#incomplete {
+	font-weight: bold;
+}
